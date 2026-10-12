@@ -19,24 +19,6 @@ A collection of 3D CAD models for Dungeons & Dragons dice, designed in Onshape.
 - [ ] D12
 - [ ] D20
 
-## Design Notes
-
-D4
-
-<!-- Add notes about the modeling process and any challenges. -->
-
-D6
-
-<!-- Add notes about the modeling process and any challenges. -->
-
-D8
-
-<!-- Add notes about the modeling process and any challenges. -->
-
-D10
-
-<!-- Add notes about the modeling process and any challenges. -->
-
 ## Tools
 
 Onshape — CAD modeling
