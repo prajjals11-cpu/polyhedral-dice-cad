@@ -51,24 +51,24 @@ Recordings of the modeling process.
 
 ### D4 — Modeling process:
 
-(Part 4) : https://lapse.hackclub.com/timelapse/IGE69mS5fGpt 
+(Part 5) : https://lapse.hackclub.com/timelapse/IGE69mS5fGpt 
 
 ### D6 — Modeling process: 
 
 (Part 1) : https://lapse.hackclub.com/timelapse/VprvpHF9Pu5P
 
-(Part 2) : https://lapse.hackclub.com/timelapse/hKpF6JZ0Ew6t
+(Part 2-3) : https://lapse.hackclub.com/timelapse/hKpF6JZ0Ew6t
 
-(Part 3) : https://lapse.hackclub.com/timelapse/_LzKiR__LtVe
+(Part 4) : https://lapse.hackclub.com/timelapse/_LzKiR__LtVe
                        
 ### D8 — Modeling process: 
 
-(Part 5) : https://lapse.hackclub.com/timelapse/w8lQypAJ_9B4
+(Part 6) : https://lapse.hackclub.com/timelapse/w8lQypAJ_9B4
 
-(Part 6) : https://lapse.hackclub.com/timelapse/xfqK0WelmQrF
+(Part 7) : https://lapse.hackclub.com/timelapse/xfqK0WelmQrF
 
 ### D10 — Modeling process:
 
-(Part 7) : https://lapse.hackclub.com/timelapse/fq1xwijtmQ7n
+(Part 8) : https://lapse.hackclub.com/timelapse/fq1xwijtmQ7n
 
-(Part 8) : https://lapse.hackclub.com/timelapse/HmNsoL8CN1Rt
+(Part 9) : https://lapse.hackclub.com/timelapse/HmNsoL8CN1Rt
