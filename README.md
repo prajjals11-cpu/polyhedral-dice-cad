@@ -10,10 +10,12 @@ A collection of 3D CAD models for Dungeons & Dragons dice, designed in Onshape.
 
 ## Dice Progress
 
-- [x] D6
+- [x] D6 (Dotted)
+- [x] D6 (Numbered)
 - [x] D4
 - [x] D8
-- [x] D10
+- [x] D10 (Single Digit)
+- [ ] D10 (Percentile)
 - [ ] D12
 - [ ] D20
 
@@ -39,7 +41,9 @@ D10
 
 Onshape — CAD modeling
 
-Lookout - HackClub Timelapse Recorder
+Lookout - HackClub Timelapse Recorder 
+
+Lapse - HackClub Timelapse Viewer
 
 ## Timelapses
 
@@ -47,24 +51,24 @@ Recordings of the modeling process.
 
 ### D4 — Modeling process:
 
-https://lapse.hackclub.com/timelapse/IGE69mS5fGpt 
+(Part 4) : https://lapse.hackclub.com/timelapse/IGE69mS5fGpt 
 
 ### D6 — Modeling process: 
 
-https://lapse.hackclub.com/timelapse/VprvpHF9Pu5P
+(Part 1) : https://lapse.hackclub.com/timelapse/VprvpHF9Pu5P
 
-https://lapse.hackclub.com/timelapse/hKpF6JZ0Ew6t
+(Part 2) : https://lapse.hackclub.com/timelapse/hKpF6JZ0Ew6t
 
-https://lapse.hackclub.com/timelapse/_LzKiR__LtVe
+(Part 3) : https://lapse.hackclub.com/timelapse/_LzKiR__LtVe
                        
 ### D8 — Modeling process: 
 
-https://lapse.hackclub.com/timelapse/w8lQypAJ_9B4
+(Part 5) : https://lapse.hackclub.com/timelapse/w8lQypAJ_9B4
 
-https://lapse.hackclub.com/timelapse/xfqK0WelmQrF
+(Part 6) : https://lapse.hackclub.com/timelapse/xfqK0WelmQrF
 
 ### D10 — Modeling process:
 
-https://lapse.hackclub.com/timelapse/fq1xwijtmQ7n
+(Part 7) : https://lapse.hackclub.com/timelapse/fq1xwijtmQ7n
 
-https://lapse.hackclub.com/timelapse/HmNsoL8CN1Rt
+(Part 8) : https://lapse.hackclub.com/timelapse/HmNsoL8CN1Rt
