@@ -38,4 +38,33 @@ D10
 ## Tools
 
 Onshape — CAD modeling
+
 Lookout - HackClub Timelapse Recorder
+
+## Timelapses
+
+Recordings of the modeling process.
+
+### D4 — Modeling process:
+
+https://lapse.hackclub.com/timelapse/IGE69mS5fGpt 
+
+### D6 — Modeling process: 
+
+https://lapse.hackclub.com/timelapse/VprvpHF9Pu5P
+
+https://lapse.hackclub.com/timelapse/hKpF6JZ0Ew6t
+
+https://lapse.hackclub.com/timelapse/_LzKiR__LtVe
+                       
+### D8 — Modeling process: 
+
+https://lapse.hackclub.com/timelapse/w8lQypAJ_9B4
+
+https://lapse.hackclub.com/timelapse/xfqK0WelmQrF
+
+### D10 — Modeling process:
+
+https://lapse.hackclub.com/timelapse/fq1xwijtmQ7n
+
+https://lapse.hackclub.com/timelapse/HmNsoL8CN1Rt
